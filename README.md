@@ -73,11 +73,16 @@ If you reference this work:
 
 Honan, S. (2026). Dual-Channel Prompt Injection Detection Architecture. Zenodo. https://doi.org/10.5281/zenodo.18486200
 
-License & Use
+⚖️ Disclosure Notice
 
-This repository is provided for inspection, citation, and architectural reference.
+This repository constitutes a public technical disclosure of an invention for the purpose of establishing prior art under applicable patent and intellectual property frameworks. The disclosure is intended to prevent subsequent patenting of substantially similar subject matter by other entities.
 
-Commercial use, implementation, or derivative systems may require licensing once the patent process is complete.
+This publication is timestamped and made permanently available via public archival platforms, including Zenodo, GitHub, and IPFS/Pinata, to preserve authorship attribution and document the structural origin of the disclosed invention.
+
+📄 License
+
+This repository is published for disclosure and reference purposes only.
+No license to implement, reproduce, or commercialize the disclosed invention is granted by this publication.
 
 Contact
 Sean Honan
